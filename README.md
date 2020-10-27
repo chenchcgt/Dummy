@@ -44,4 +44,4 @@ In addition, a progression walk through by year for better understanding and com
 ### Activity vs. Obesity Trend - Bar Chart
 - relationship of physical activity levels against obesity per State.
 ### Activity vs. Obesity - Scatter Plot
-- analysis on the correlation between obesity and level of physical activity when compared to National Level percentage and Target percentages.
+- analysis of the correlation between obesity and level of physical activity when compared to National Level and Target percentages.
