@@ -46,10 +46,10 @@ In addition, a progression walk through by year for better understanding and com
 ### Activity vs. Obesity - Scatter Plot
 - analysis of the correlation between obesity and level of physical activity when compared to National Level and Target percentages.
 
-# Application and Technology
-1- Heroku hosted with Postgres Database
-2- Bootstrap template
-3- Jupyter Notebook
-4- Python/Flask
-5- Tableau
-6- HTML/JS
+#Application and Technology
+1. Heroku hosted with Postgres Database
+2. Bootstrap template
+3. Jupyter Notebook
+4. Python/Flask
+5. Tableau
+6. HTML/JS
