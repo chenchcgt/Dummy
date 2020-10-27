@@ -35,12 +35,12 @@ Centers for Disease Control and Prevention https://www.cdc.gov/obesity/data/adul
 - Health Data Org (US Data - United States - Life expectancy, obesity, and physical activity)
 http://www.healthdata.org/us-health/data-download
 ## Background
-Explain through visualizations, analysis are performed to understand the relationship between Life Expectancy, Obesity, and Physical Activity Levels by gender. 
-In addition, a walk through the progression by year for better understanding and comparison between timelines. 
+Analysis are performed and demonstrated through visualizations about the relationship between Life Expectancy, Obesity, and Physical Activity Levels by gender. 
+In addition, a walk through of the progression by year for better understanding and comparison between timelines. 
 ### Life Expectancy - Geomap
-- uncover the life expectancy throughout the spam of 25 years if increasing or decreasing, demonstrated geographycally.
+- uncover the life expectancy if increasing or decreasing throughout the spam of 25 years within the US, demonstrated geographycally.
 ### Life Expectancy by State (Ranking) - Line Chart
-- understand which are the US States that are top or bottom ranked in terms of Life Expectancy througout the timelines.
+- understand the ranking of the top and bottom US States in terms of Life Expectancy througout the timelines.
 ### Activity vs. Obesity Trend - Bar Chart
 - relationship of physical activity levels against obesity per State.
 ### Activity vs. Obesity - Scatter Plot
