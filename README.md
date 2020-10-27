@@ -7,6 +7,7 @@ Dummy
 - Kaggle's Medical Cost Personal Datasets
 https://archive.ics.uci.edu/ml/datasets/Estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition+
 - UCI's Estimation of obesity levels based on eating habits and physical condition Data Set
+
 https://www.kaggle.com/mirichoi0218/insurance
 ## Background
 Obesity is a common, serious, and costly disease. CDC estimates the prevalence of obesity was 42.4% in 2017~2018. The estimated annual medical cost of obesity in the United States was $147 billion in 2008 US dollars; the medical cost for people who have obesity was $1,429 higher than those of normal weight.
@@ -34,6 +35,7 @@ Centers for Disease Control and Prevention https://www.cdc.gov/obesity/data/adul
 ## Data
 - Health Data Org (US Data - United States - Life expectancy, obesity, and physical activity)
 http://www.healthdata.org/us-health/data-download
+
 ##Background
 Explain through visualizations, analysis are performed to understand the relationship between Life Expectancy, Obesity, and Physical Activity Levels by gender. 
 In addition, a walk through the progression by year for better understanding and comparison between timelines. 
@@ -45,3 +47,4 @@ In addition, a walk through the progression by year for better understanding and
 - relationship of physical activity levels against obesity per State.
 ### Activity vs. Obesity - Scatter Plot
 - analysis on the correlation between obesity and level of physical activity when compared to National Level percentage and Target percentages.
+
